@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Farmacia San Lorenzo</title>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<a href="index.html">
+  <img src="images/SanLorenzo_logo-01.png" alt="logo">
+</a>
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="chi-siamo.html">Chi Siamo</a></li>
+    <li><a href="servizi.html">Servizi</a></li>
+    <li><a href="contatti.html">Contatti</a></li>
+  </ul>
+</nav>
+
+<!-- CONTENUTO -->
+<h1>Realizziamo il vostro benessere</h1>
+<h2>Benvenuti nella Farmacia San Lorenzo</h2>
+
+<!-- FOOTER -->
+<footer>
+  Farmacia San Lorenzo © P. IVA: 10323120013
+</footer>
+
+</body>
+</html>
